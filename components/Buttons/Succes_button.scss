@@ -1,0 +1,16 @@
+.succes-button {
+    background-color: #27AE60;
+    color: #fff;
+
+    &:hover {
+        background-color: #1F9752;
+    }
+}
+
+.succes-button--active {
+    background-color: #188546;
+}
+
+.succes-button--disabled {
+    background-color: #4DA773;
+}
